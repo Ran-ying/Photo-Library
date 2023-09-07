@@ -137,7 +137,6 @@ header {
         vertical-align: top;
         text-align: left;
     }
-
     #calendar {
         width: 400px;
         display: inline-block;
