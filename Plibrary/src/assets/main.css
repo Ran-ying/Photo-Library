@@ -1,0 +1,30 @@
+@media all {
+    body {
+        background-color: #dadaf0;
+        color: rgb(30, 30, 30);
+        fill: rgb(30, 30, 30);
+    }
+}
+@media (prefers-color-scheme: dark){
+    body {
+        background-color: rgb(30, 30, 30);
+        color: #a7a6dc;
+        fill: #a7a6dc;
+    }
+}
+body {
+    margin: 0px;
+}
+h1 {
+    font-size: 3em;
+}
+h2 {
+    font-size: 2.5em;
+}
+h3 {
+    font-size: 2em;
+}
+h4 {
+    font-size: 1.5em;
+    margin: 0px;
+}
